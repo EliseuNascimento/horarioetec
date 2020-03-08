@@ -1,24 +1,54 @@
 #body{
 	background-color: black;
 }
+#bodyaps{
+	background-color: black;
+}
+#bold{
+	font-weight: bold;
+}
 .container{
 	background-color: white;
 	min-height: 600px;
 	height: auto;
 }
-#bold{
-	font-weight: bold;
+#containerpw{
+	background-color: grey;
+	min-height: 600px;
+	height: auto;
+}
+#containeraps{
+	background-color: #007FFF;
+	min-height: 600px;
+	height: auto;
+}
+#fontaps{
+	color: black;
 }
 #imgtest{
 	width: 100%;
 }
-#algoritmoimg{
-	width: 50%;
+#imgalg{
+	width: 100%;
 	float: right;
 }
-#bdimg{
+#imgbd{
 	width: 100%;
 }
-#lttimg{
-	width: 100%
+#imgltt{
+	width: 100%;
+	float: right;
+}
+#imgfi{
+	width: 100%;
+}
+#gifpw{
+	width: 100%;
+	float: right;
+}
+#giftr{
+	width: 100%; 
+}
+#gifdd{
+	width: 100%;
 }
