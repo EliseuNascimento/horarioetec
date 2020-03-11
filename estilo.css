@@ -11,44 +11,9 @@
 	background-color: white;
 	min-height: 600px;
 	height: auto;
+
 }
-#containerpw{
-	background-color: grey;
-	min-height: 600px;
-	height: auto;
-}
-#containeraps{
-	background-color: #007FFF;
-	min-height: 600px;
-	height: auto;
-}
-#fontaps{
-	color: black;
-}
-#imgtest{
-	width: 100%;
-}
-#imgalg{
-	width: 100%;
-	float: right;
-}
-#imgbd{
-	width: 100%;
-}
-#imgltt{
-	width: 100%;
-	float: right;
-}
-#imgfi{
-	width: 100%;
-}
-#gifpw{
-	width: 100%;
-	float: right;
-}
-#giftr{
-	width: 100%; 
-}
-#gifdd{
+
+#imgs{
 	width: 100%;
 }
